@@ -36,5 +36,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Enlaces
 
-Universidad de Almería: [UAL] (https://www.ual.es/).
+[Universidad de Almería] (https://www.ual.es/).
+
+### Información personal
+
+Nombre:     Francisco Javier
+Apellidos:  Marqués Gaona
+Email:      Fran19943@gmail.com
+Email ual:  fmg703@inlumine.ual.es
+Github:     [](https://github.com/Fran703)
+Teléfono:   671481834
+![Image](src)
 
