@@ -1,8 +1,6 @@
 ## Asignatura Herramientas y Métodos del Software
 
-You can use the [editor on GitHub](https://github.com/Fran703/fmg703.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bienvenidos a la página oficial de la asignatura de Herramientas y Métodos del Software. En esta página se seguirán las prácticas de la asignatura, así como se subirán enlaces e información al contenido que realicemos.
 
 ### Markdown
 
@@ -35,3 +33,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Enlaces
+
+Universidad de Almería: [UAL] (https://www.ual.es/).
+
