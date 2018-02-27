@@ -1,6 +1,16 @@
 ## Asignatura Herramientas y Métodos del Software
 
-Bienvenidos a la página oficial de la asignatura de Herramientas y Métodos del Software. En esta página se seguirán las prácticas de la asignatura, así como se subirán enlaces e información al contenido que realicemos.
+Bienvenidos a la página oficial de la asignatura de Herramientas y Métodos del Software. En esta página se seguirán las prácticas de la asignatura, así como se subirán enlaces e información del contenido que realicemos.
+
+### Información personal
+
+- Nombre:     Francisco Javier
+- Apellidos:  Marqués Gaona
+- Email:      Fran19943@gmail.com
+- Email ual:  fmg703@inlumine.ual.es
+- Github:     [https://github.com/Fran703](https://github.com/Fran703)
+- Teléfono:   671481834
+- ![Image](C:/Users/Fran/Desktop/Fran trabajos/Universidad/fran.png)
 
 ### Markdown
 
@@ -36,15 +46,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Enlaces
 
-[https://www.ual.es/] (https://www.ual.es/).
-
-### Información personal
-
-- Nombre:     Francisco Javier
-- Apellidos:  Marqués Gaona
-- Email:      Fran19943@gmail.com
-- Email ual:  fmg703@inlumine.ual.es
-- Github:     [https://github.com/Fran703](https://github.com/Fran703)
-- Teléfono:   671481834
-- ![Image](C:\Users\Fran\Desktop\Fran trabajos\Universidad\fran.png)
+[https://www.ual.es/](https://www.ual.es/)
 
