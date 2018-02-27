@@ -10,7 +10,7 @@ Bienvenidos a la página oficial de la asignatura de Herramientas y Métodos del
 - Email ual:  fmg703@inlumine.ual.es
 - Github:     [https://github.com/Fran703](https://github.com/Fran703)
 - Teléfono:   671481834
-- ![Image](C:/Users/Fran/Desktop/Fran trabajos/Universidad/fran.png)
+- ![Image](https://github.com/Fran703/fmg703.github.io/blob/master/fran.png)
 
 ### Markdown
 
